@@ -1,16 +1,25 @@
 
-.Apps{
-  
-}
-.App {
-  text-align: center;
-  overflow:auto;
+/* .Apps{
   background-image: url("./images/howard-bouchevereau-vHnQqO3TT4c-unsplash.jpg");
   position: fixed;
   min-width: 100%;
   min-height: 100%;
   background-size: cover;
   background-position: center;
+  
+} */
+#main-div {
+  background-image: url("./images/howard-bouchevereau-vHnQqO3TT4c-unsplash.jpg");
+ 
+  min-width: 100%;
+  min-height: 100%;
+  background-size: cover;
+  background-position: center;
+}
+.App {
+  text-align: center;
+  overflow:auto;
+
   
 }
 

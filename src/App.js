@@ -8,11 +8,12 @@ import About from './components/About.js';
 function App() {
  
   return (
-    <div class=" App flex flex-col h-screen justify-between ">
-     
-
+    <div id="main-div" class="flex flex-col h-screen justify-between ">
       <Header/>
+
       <Home/>
+      
+      
       
       <About/>
       
